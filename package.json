@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-scaler",
+  "version": "0.0.1",
+  "description": "A Cordova plugin that controls the scaling of the WebView on iOS",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-scaler",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appfolio/cordova-plugin-scaler.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-ios",
+    "scaler"
+  ],
+  "license": "MIT",
+  "author": "AppFolio, Inc.",
+  "homepage": "https://github.com/appfolio/cordova-plugin-scaler#readme"
+}
