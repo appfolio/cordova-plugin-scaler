@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
            id="cordova-plugin-scaler"
-      version="0.0.1">
+      version="0.0.2">
     <name>Cordova Scaler Plugin</name>
     <description>A Cordova plugin that controls the scaling of the WebView on iOS</description>
     <keywords>cordova,scaler,scaling</keywords>
