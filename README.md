@@ -1,4 +1,7 @@
 # cordova-plugin-scaler
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/appfolio/cordova-plugin-scaler.svg)](https://greenkeeper.io/)
+
 This plugin controls the scaling of the WebView on iOS.
 
 ## Supported Cordova Platforms
